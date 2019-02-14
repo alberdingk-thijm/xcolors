@@ -1,5 +1,7 @@
 # xcolors
 
+**Deprecated (see [#1](https://github.com/alberdingk-thijm/xcolors/issues/1)): use [xrdb](https://crates.io/crates/xrdb) instead.**
+
 A (tiny) library to read X Resource Manager colours from Rust.
 
 This is a small, WIP and very basic library to abstract away some of the code to read
